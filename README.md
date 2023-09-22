@@ -1,4 +1,5 @@
 # Öğr. Gör. Dr. Zafer Yavuz
+
 Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım Anabilim Dalı
 ---
 
