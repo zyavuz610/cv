@@ -4,6 +4,7 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 
 
 [Yayınlar/Eserler](#yayınlareserler) | Projeler | Ders Notları | Eğitim | Akademik/İdari Deneyim
+
 ---
 
 ## Yayınlar/Eserler
