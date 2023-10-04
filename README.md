@@ -28,3 +28,4 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 
 ## Projeler
 * 2005, BAP, Vucut Dilinin Bilgisayar Tarafından Yorumlanması
+* 2018, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Faruk Başaran ), 11-13 Ekim, Atölye Lideri
