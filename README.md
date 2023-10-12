@@ -3,7 +3,7 @@
 Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım Anabilim Dalı
 
 
-[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | Ders Notları | Eğitim | Akademik/İdari Deneyim
+[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | [Ders Notları](#ders-notları) | Eğitim | Akademik/İdari Deneyim
 
 ---
 
@@ -29,3 +29,8 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ## Projeler
 * 2005, BAP, Vucut Dilinin Bilgisayar Tarafından Yorumlanması
 * 2018, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Faruk Başaran ), 11-13 Ekim, Atölye Lideri
+
+---
+
+## Ders Notları
+* [Siber Güvenlik Temelleri](https://docs.google.com/presentation/d/1WdkNE9MOyeMPfXtueijWu03V11xOiCtRl04JFiEThZc/edit?usp=sharing)
