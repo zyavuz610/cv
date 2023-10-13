@@ -33,4 +33,4 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ---
 
 ## Ders Notları
-* [Siber Güvenlik Temelleri](https://docs.google.com/presentation/d/1WdkNE9MOyeMPfXtueijWu03V11xOiCtRl04JFiEThZc/edit?usp=sharing)
+* -
