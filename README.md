@@ -33,4 +33,4 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ---
 
 ## Ders Notları
-* -
+* [Bilgisayar Mühendisliği](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
