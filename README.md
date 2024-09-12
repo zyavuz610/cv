@@ -34,3 +34,9 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 
 ## Ders Notları
 * [Bilgisayar Mühendisliği](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
+
+## Eğitim
+* Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
+* Yüksek Lisans, 2007, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
+* Lisans, 2004, Karadeniz Teknik Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Bilgisayar Mühendisliği
+* Lise, 1999, Trabzon Fatih Süper Lisesi
