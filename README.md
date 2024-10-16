@@ -20,9 +20,9 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 * YAVUZ, Z.,  & KÖSE, C., (**2015**).  Retinal Blood Vessel Extraction using image enhancement and modified Fuzzy C means Clustering . The 4. the International Fuzzy System Symposium. İstanbul, Turkey.
 
 ### Ulusal bilimsel toplantılarda sunulan ve bildiri kitabında basılan bildiriler
-* **Z. Yavuz** and C. Köse, "A retinal image idetification method using blood vessel topological information," 2017 Medical Technologies National Congress (TIPTEKNO), Trabzon, Turkey, 2017, pp. 1-5, doi: 10.1109/TIPTEKNO.2017.8238121.
-* **YAVUZ, Z.**,  & KÖSE, C., (2016).  A Novel Method for Selecting Region of Interest in Color Retinal Fundus Images . XX. Biyomedikal Mühendisliği Ulusal Toplantısı (Uluslararası Katılımlı) (pp.96-99). İzmir, Turkey.
-* **YAVUZ, Z.**,  & KÖSE, C., (2016).  Retinal Fundus Image Registration using Bifurcation and Crossover Points . 24th Signal Processing and Communication Application Conference (SIU) (pp.1485-1488). Zonguldak, Turkey.
+* **Z. Yavuz** and C. Köse, "A retinal image idetification method using blood vessel topological information," 2017 Medical Technologies National Congress (TIPTEKNO), Trabzon, Turkey, **2017**, pp. 1-5, doi: 10.1109/TIPTEKNO.2017.8238121.
+* **YAVUZ, Z.**,  & KÖSE, C., (**2016**).  A Novel Method for Selecting Region of Interest in Color Retinal Fundus Images . XX. Biyomedikal Mühendisliği Ulusal Toplantısı (Uluslararası Katılımlı) (pp.96-99). İzmir, Turkey.
+* **YAVUZ, Z.**,  & KÖSE, C., (**2016**).  Retinal Fundus Image Registration using Bifurcation and Crossover Points . 24th Signal Processing and Communication Application Conference (SIU) (pp.1485-1488). Zonguldak, Turkey.
 
 ---
 
