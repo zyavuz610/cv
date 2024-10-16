@@ -40,3 +40,10 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 * Yüksek Lisans, 2007, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
 * Lisans, 2004, Karadeniz Teknik Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Bilgisayar Mühendisliği
 * Lise, 1999, Trabzon Fatih Süper Lisesi
+
+## Akademik/İdari Deneyim
+* 2023 - halen: KTÜ Mezunlarla İlişkiler (Kurucu) Koordinatörü
+* 2021 - halen: KTÜ Kariyer Geliştirme Uygulama ve Araştırma Merkezi Müdür Yardımcısı
+* 2018 - halen: KTÜ Bilgisayar Mühendisliği MÜDEK Koordinatörü
+* 2020 - 2023: KTÜ Dijital Dönüşüm Ofisi, Yürütme Kurulu Üyesi
+* 2015-2021: KTÜ Bilgisayar Bilimleri Uygulama ve Araştırma Merkezi Müdür Yardımcısı
