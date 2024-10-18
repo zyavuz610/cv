@@ -27,6 +27,10 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ---
 
 ## Projeler
+* 2023, Tübitak 2209-B, (Kapalı Devre Sohbet Robotu; Bitirme Öğrencileri: Zeynep İlkay Şahin, Süveyda Can, Ayşenur Tak, Bayram Alperen Kösemeci), 2023/2 Dönem, Akademik Danışman
+  * Bu proje aynı zamanda TUSAŞ Lift-Up Programı tarafından da desteklenmiştir.
+* 2023, Tübitak 2209-A, (Taşınabilir Akıllı Sistemler ve Akıllı Ev/Araba Entegrasyonu; Bitirme Öğrencileri: Mehmet ÇOBANOĞLU, Abdurrahman KAYAHAN), 2023/2 Dönem, Akademik Danışman
+* 2023, Tübitak 2209-A, (Yapay Zeka ile Mentor Önermesi Yapan Mentor-Mentee Web Sitesi; Bitirme Öğrencileri: Ulaş DEMİR, Elif ÖZBAY, Zeyneb Besra ÖZDEN), 2023/2 Dönem, Akademik Danışman
 * 2023, Tübitak 2237, Kariyer Planlamasında Şirketleşme: Teknokentlerde Yer Almanın Yolları ve Avantajları Eğitimi, 04-06 Aralık 2023, Destek Personeli. 
 * 2021, Animasyon Atölyesi, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Trabzon Beşikdüzü Fen Lisesi), 7-8 Ekim 2021, Atölye Lideri
 * 2018, BİLGİSAYAR BİLİMLERİNDE MATEMATİĞİN ÖNEMİNİN KEŞFİ, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Faruk Başaran), 11-13 Ekim 2018, 
