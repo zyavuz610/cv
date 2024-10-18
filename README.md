@@ -44,7 +44,8 @@ Atölye Lideri.
 ---
 
 ## Ders Notları
-* [Bilgisayar Mühendisliği](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
+* [Bilgisayar Mühendisliği Meslek Tanıtımı](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
+* [Sistem Analizi ve Tasarımı Ders Notları](https://docs.google.com/document/d/1x-0BA75XJTY0XNIc7AtInLDZ1UFtLD492tSfKi3i9mk/edit#heading=h.jj69yoqfgqs3)
 
 ## Eğitim
 * Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
