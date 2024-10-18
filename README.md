@@ -27,6 +27,7 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ---
 
 ## Projeler
+* 2023, Tübitak 2237, Kariyer Planlamasında Şirketleşme: Teknokentlerde Yer Almanın Yolları ve Avantajları Eğitimi, 04-06 Aralık 2023, Destek Personeli. 
 * 2021, Animasyon Atölyesi, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Trabzon Beşikdüzü Fen Lisesi), 7-8 Ekim 2021, Atölye Lideri
 * 2018, BİLGİSAYAR BİLİMLERİNDE MATEMATİĞİN ÖNEMİNİN KEŞFİ, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Faruk Başaran), 11-13 Ekim 2018, 
 Atölye Lideri.
