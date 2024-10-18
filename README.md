@@ -27,6 +27,9 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 ---
 
 ## Projeler
+* 2024, Tübitak 2218 - Yurt İçi Doktora Sonrası Araştırma Burs Programı, Bursa Teknik Üniversitesi.
+* 2023, Tübitak 3005 - SOSYAL VE BEŞERİ BİLİMLERDE YENİLİKÇİ ÇÖZÜMLER ARAŞTIRMA
+PROJELERİ DESTEKLEME PROGRAMI, Trabzon Tarihi Kent Mimarliği Ve Sanala Aktarimi, 2023-2025, Araştırmacı.
 * 2023, Tübitak 2209-B, (Kapalı Devre Sohbet Robotu; Bitirme Öğrencileri: Zeynep İlkay Şahin, Süveyda Can, Ayşenur Tak, Bayram Alperen Kösemeci), 2023/2 Dönem, Akademik Danışman
   * Bu proje aynı zamanda TUSAŞ Lift-Up Programı tarafından da desteklenmiştir.
 * 2023, Tübitak 2209-A, (Taşınabilir Akıllı Sistemler ve Akıllı Ev/Araba Entegrasyonu; Bitirme Öğrencileri: Mehmet ÇOBANOĞLU, Abdurrahman KAYAHAN), 2023/2 Dönem, Akademik Danışman
