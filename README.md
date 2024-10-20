@@ -56,7 +56,7 @@ Atölye Lideri.
 ## Akademik/İdari Deneyim
 * 2023 - halen: [KTÜ Mezunlarla İlişkiler](https://www.ktu.edu.tr/mezun) (Kurucu) Koordinatörü
 * 2021 - halen: [KTÜ Kariyer Geliştirme Uygulama ve Araştırma Merkezi](https://www.ktu.edu.tr/kariyer) Müdür Yardımcısı ve Yönetim Kurulu Üyesi
-* 2020 - 2023: [KTÜ Dijital Dönüşüm Ofisi](https://www.ktu.edu.tr/ddo), Yürütme Kurulu Üyesi
 * 2019 - halen: [KTÜ Yapay Zeka Öğrenci Kulubü](https://ktu.ai/) Akademik Danışmanı
 * 2018 - halen: KTÜ Bilgisayar Mühendisliği [MÜDEK](https://www.mudek.org.tr/) Koordinatörü
+* 2020 - 2023: [KTÜ Dijital Dönüşüm Ofisi](https://www.ktu.edu.tr/ddo), Yürütme Kurulu Üyesi
 * 2015 - 2021: KTÜ Bilgisayar Bilimleri Uygulama ve Araştırma Merkezi Müdür Yardımcısı
