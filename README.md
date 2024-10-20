@@ -56,7 +56,7 @@ Atölye Lideri.
 ## Akademik/İdari Deneyim
 * 2023 - halen: KTÜ Mezunlarla İlişkiler (Kurucu) Koordinatörü
 * 2021 - halen: KTÜ Kariyer Geliştirme Uygulama ve Araştırma Merkezi Müdür Yardımcısı
-* 2018 - halen: KTÜ Bilgisayar Mühendisliği MÜDEK Koordinatörü
-* 2019 - halen: KTÜ Yapay Zeka Öğrenci Kulubü Akademik Danışmanı
 * 2020 - 2023: KTÜ Dijital Dönüşüm Ofisi, Yürütme Kurulu Üyesi
+* 2019 - halen: KTÜ Yapay Zeka Öğrenci Kulubü Akademik Danışmanı
+* 2018 - halen: KTÜ Bilgisayar Mühendisliği MÜDEK Koordinatörü
 * 2015 - 2021: KTÜ Bilgisayar Bilimleri Uygulama ve Araştırma Merkezi Müdür Yardımcısı
