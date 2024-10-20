@@ -54,9 +54,9 @@ Atölye Lideri.
 * Lise, 1999, Trabzon Fatih Süper Lisesi
 
 ## Akademik/İdari Deneyim
-* 2023 - halen: KTÜ Mezunlarla İlişkiler (Kurucu) Koordinatörü
-* 2021 - halen: KTÜ Kariyer Geliştirme Uygulama ve Araştırma Merkezi Müdür Yardımcısı
-* 2020 - 2023: KTÜ Dijital Dönüşüm Ofisi, Yürütme Kurulu Üyesi
-* 2019 - halen: KTÜ Yapay Zeka Öğrenci Kulubü Akademik Danışmanı
-* 2018 - halen: KTÜ Bilgisayar Mühendisliği MÜDEK Koordinatörü
+* 2023 - halen: [KTÜ Mezunlarla İlişkiler](https://www.ktu.edu.tr/mezun) (Kurucu) Koordinatörü
+* 2021 - halen: [KTÜ Kariyer Geliştirme Uygulama ve Araştırma Merkezi](https://www.ktu.edu.tr/kariyer) Müdür Yardımcısı ve Yönetim Kurulu Üyesi
+* 2020 - 2023: [KTÜ Dijital Dönüşüm Ofisi](https://www.ktu.edu.tr/ddo), Yürütme Kurulu Üyesi
+* 2019 - halen: [KTÜ Yapay Zeka Öğrenci Kulubü](https://ktu.ai/) Akademik Danışmanı
+* 2018 - halen: KTÜ Bilgisayar Mühendisliği [MÜDEK](https://www.mudek.org.tr/) Koordinatörü
 * 2015 - 2021: KTÜ Bilgisayar Bilimleri Uygulama ve Araştırma Merkezi Müdür Yardımcısı
