@@ -3,7 +3,7 @@
 Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım Anabilim Dalı
 
 
-[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | [Ders Notları](#ders-notları) | [Eğitim](#eğitim) | [Akademik/İdari Deneyim](#akademiki%CC%87dari-deneyim)
+[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | [Dersler](#dersler) | [Eğitim](#eğitim) | [Akademik/İdari Deneyim](#akademiki%CC%87dari-deneyim)
 
 ---
 
@@ -42,10 +42,26 @@ Atölye Lideri.
 * 2005, Bilimsel Araştırma Projeleri(BAP), Vucut Dilinin Bilgisayar Tarafından Yorumlanması, Yürütücü
 
 ---
+## Dersler
+* Programlama-I (C programlama dili)
+* Nesne Yönelimli Programlama (C++ programlama dili)
+* Web Programlama
+* Veri Yapıları
+* Web Tasarımı
+* Python Programlama (farklı mühendislik bölümlerinde)
+* Sistem Analizi ve Tasarımı
+* Sayısal Tasarım Lab.
+* Mikroişlemci Lab.
+* Bilgisayar Organizasyonu Lab.
+* Bilgisayar Sistemleri Lab.
+* Bilgisayar Grafikleri Lab.
+* Bilgisayar Ağları Lab.
 
-## Ders Notları
+### Ders Notları
 * [Bilgisayar Mühendisliği Meslek Tanıtımı](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
 * [Sistem Analizi ve Tasarımı Ders Notları](https://docs.google.com/document/d/1x-0BA75XJTY0XNIc7AtInLDZ1UFtLD492tSfKi3i9mk/edit#heading=h.jj69yoqfgqs3)
+
+---
 
 ## Eğitim
 * Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
