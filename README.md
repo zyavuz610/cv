@@ -50,7 +50,7 @@ Atölye Lideri.
 * Web Tasarımı
 * Python Programlama (farklı mühendislik bölümlerinde)
 * Sistem Analizi ve Tasarımı
-* Sayısal Tasarım Lab.
+* [Sayısal Tasarım Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/0_logic_design_lab)
 * [Mikroişlemci Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/1_computer_org_lab/adc)
 * [Bilgisayar Organizasyonu Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/1_computer_org_lab/adc)
 * Bilgisayar Sistemleri Lab.
