@@ -51,8 +51,8 @@ Atölye Lideri.
 * Python Programlama (farklı mühendislik bölümlerinde)
 * Sistem Analizi ve Tasarımı
 * Sayısal Tasarım Lab.
-* Mikroişlemci Lab.
-* Bilgisayar Organizasyonu Lab.
+* [Mikroişlemci Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/1_computer_org_lab/adc)
+* [Bilgisayar Organizasyonu Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/1_computer_org_lab/adc)
 * Bilgisayar Sistemleri Lab.
 * Bilgisayar Grafikleri Lab.
 * Bilgisayar Ağları Lab.
