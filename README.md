@@ -55,7 +55,7 @@ Atölye Lideri.
 * [Bilgisayar Organizasyonu Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/1_computer_org_lab/adc)
 * Bilgisayar Sistemleri Lab.
 * Bilgisayar Grafikleri Lab.
-* Bilgisayar Ağları Lab.
+* [Bilgisayar Ağları Lab.](https://github.com/zyavuz610/labs_inKTU/tree/master/2_computer_networks_lab)
 
 ### Ders Notları
 * [Bilgisayar Mühendisliği Meslek Tanıtımı](https://docs.google.com/presentation/d/1PtVDap36UZq8Q9iqrNarl6PYPrBobbL2X1gVMyxP_pk/edit?usp=sharing)
