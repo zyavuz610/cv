@@ -24,7 +24,7 @@ Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım A
 * **YAVUZ, Z.**,  & KÖSE, C., (**2016**).  A Novel Method for Selecting Region of Interest in Color Retinal Fundus Images . XX. Biyomedikal Mühendisliği Ulusal Toplantısı (Uluslararası Katılımlı) (pp.96-99). İzmir, Turkey.
 * **YAVUZ, Z.**,  & KÖSE, C., (**2016**).  Retinal Fundus Image Registration using Bifurcation and Crossover Points . 24th Signal Processing and Communication Application Conference (SIU) (pp.1485-1488). Zonguldak, Turkey.
 * **Yavuz, Z.**, & Köse, C. (**2015, May**). Vessel segmentation in retinal images using multiscale image enhancement and clustering. In 2015 23nd Signal Processing and Communications Applications Conference (SIU) (pp. 581-584). IEEE.
-* **Yavuz, Zafer**, and Cemal Köse.,(**2014**), "Blood vessel segmentation from retinal images based on enhencement methods." 2014 22nd Signal Processing and Communications Applications Conference (SIU). IEEE, 2014.
+* **Yavuz, Zafer**, and Cemal Köse., (**2014**), "Blood vessel segmentation from retinal images based on enhencement methods." 2014 22nd Signal Processing and Communications Applications Conference (SIU). IEEE, 2014.
 
 ---
 
