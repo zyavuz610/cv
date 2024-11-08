@@ -3,7 +3,7 @@
 Karadeniz Teknik Üniversitesi, Bilgisayar Mühendisliği Bölümü, Yazılım Anabilim Dalı
 
 
-[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | [Dersler](#dersler) | [Eğitim](#eğitim) | [Akademik/İdari Deneyim](#akademiki%CC%87dari-deneyim) | [Seminerler](#seminerler)
+[Yayınlar/Eserler](#yayınlareserler) | [Projeler](#projeler) | [Eğitim](#eğitim) | [Akademik/İdari Deneyim](#akademiki%CC%87dari-deneyim) | [Dersler](#dersler) | [Seminerler](#seminerler)
 
 ---
 
