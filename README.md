@@ -64,6 +64,13 @@ Atölye Lideri.
 * [Sistem Analizi ve Tasarımı Ders Notları](https://docs.google.com/document/d/1x-0BA75XJTY0XNIc7AtInLDZ1UFtLD492tSfKi3i9mk/edit#heading=h.jj69yoqfgqs3)
 
 ---
+### Seminerler
+* [Yapay Zeka Çağında Hayatta Kalma](https://docs.google.com/presentation/d/1BRcglWyn8yZ0Dp2EiRjVHXdvFOHj_lnRAT4yaURQ-U8/edit?usp=sharing)
+* [Geleceğin Meslekleri Sunumu](https://docs.google.com/presentation/d/1PSo_P3PnmyoxEVi64FSeXrhC9wVnKIdv4RaEK-_SrRs/edit?usp=sharing)
+* [Geleceğin Meslekleri ve Yapay Zeka](https://docs.google.com/presentation/d/1MQgL5_QGfUQKXdtziTrnVwY_JfwTqU8i4wSlDGDch98/edit?usp=sharing)
+* [Yapay Zeka’nın Dünü, Bügünü, Yarını](https://docs.google.com/presentation/d/1x5ztrX90iyKIKfLpZHyjfWL84I6m9GuIevf8LnfuWrY/edit?usp=sharing)
+* [Öz Gelecek Hazırlama](https://docs.google.com/presentation/d/1lURN7pZIkSkU-9I93Au2afPnXql7DBxatdybEu8vat4/edit?usp=sharing)
+---
 
 ## Eğitim
 * Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
