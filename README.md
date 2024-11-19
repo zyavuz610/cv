@@ -37,11 +37,11 @@ PROJELERİ DESTEKLEME PROGRAMI, Trabzon Tarihi Kent Mimarliği ve Sanala Aktarim
 * 2023, Tübitak 2209-A, (Taşınabilir Akıllı Sistemler ve Akıllı Ev/Araba Entegrasyonu; Bitirme Öğrencileri: Mehmet ÇOBANOĞLU, Abdurrahman KAYAHAN), 2023/2 Dönem, Akademik Danışman
 * 2023, Tübitak 2209-A, (Yapay Zeka ile Mentor Önermesi Yapan Mentor-Mentee Web Sitesi; Bitirme Öğrencileri: Ulaş DEMİR, Elif ÖZBAY, Zeyneb Besra ÖZDEN), 2023/2 Dönem, Akademik Danışman
 * 2023, Tübitak 2237, Kariyer Planlamasında Şirketleşme: Teknokentlerde Yer Almanın Yolları ve Avantajları Eğitimi, 04-06 Aralık 2023, Destek Personeli. 
-* 2021, Animasyon Atölyesi, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Trabzon Beşikdüzü Fen Lisesi), 7-8 Ekim 2021, Atölye Lideri
+* 2021, Animasyon Atölyesi, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Trabzon Beşikdüzü Fen Lisesi), 7-8 Ekim 2021, Atölye Lideri.
 * 2018, BİLGİSAYAR BİLİMLERİNDE MATEMATİĞİN ÖNEMİNİN KEŞFİ, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Faruk Başaran), 11-13 Ekim 2018, 
 Atölye Lideri.
-* 2016, BİLGİSAYAR BİLİMLERİNDE MATEMATİĞİN ÖNEMİNİN KEŞFİ, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Karadeniz Teknik Üniversitesi), 19-25 Kasım 2016, Atölye Lideri
-* 2005, Bilimsel Araştırma Projeleri(BAP), Vucut Dilinin Bilgisayar Tarafından Yorumlanması, Yürütücü
+* 2016, BİLGİSAYAR BİLİMLERİNDE MATEMATİĞİN ÖNEMİNİN KEŞFİ, Tübitak 4007, Bilim, Teknoloji ve Sanat Şenliği (Karadeniz Teknik Üniversitesi), 19-25 Kasım 2016, Atölye Lideri.
+* 2005, Bilimsel Araştırma Projeleri(BAP), Vucut Dilinin Bilgisayar Tarafından Yorumlanması, Yürütücü.
 
 ---
 ## Dersler
