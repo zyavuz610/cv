@@ -73,9 +73,9 @@ Atölye Lideri.
 ---
 
 ## Eğitim
-* Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
-* Yüksek Lisans, 2007, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği
-* Lisans, 2004, Karadeniz Teknik Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Bilgisayar Mühendisliği
+* Doktora, 2018, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği Ana Bilim Dalı
+* Yüksek Lisans, 2007, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği Ana Bilim Dalı
+* Lisans, 2004, Karadeniz Teknik Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Bilgisayar Mühendisliği Bölümü
 * Lise, 1999, Trabzon Fatih Süper Lisesi
 
 ## Akademik/İdari Deneyim
